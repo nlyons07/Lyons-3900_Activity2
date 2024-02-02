@@ -108,10 +108,6 @@ nav li {
 }
 
 
-
- /*************************************
-PAGE: ABOUT
-**************************************/
 .clowfish-photo {
     display: block;
     max-width: 400px;
@@ -120,15 +116,13 @@ PAGE: ABOUT
 }
 
 
- /* green header*/
+
   header {
    background: #6ab47b;
    border-color: #599a68;
  }
 
 
-
-/* nav background on mobile devices*/
 nav {
    background: #599a6b;
 }
@@ -137,11 +131,10 @@ nav a, nav a:visited {
 	color: #fff;
 }
 
-/* selected nav link color*/
 nav a.selected, nav a:hover {
   color: #32673f;
 }
-/* site body*/
+
 body {
     background-color: #fff;
     color: #000;
